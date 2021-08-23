@@ -127,6 +127,12 @@ selection{
     padding: 15px;
    border-radius: 5px;
 }
+.azul{
+    color: #00F;
+}
+.vermelho{
+    color: #F00;
+}
 
 @media(max-width: 768px){
     #categorias{
